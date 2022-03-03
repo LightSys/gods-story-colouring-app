@@ -20,6 +20,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".chooseLanguage" >
+        </activity>
+        <activity
+            android:name=".homescreen" >
+        </activity>
+        <activity
+            android:name=".acknowledgements" >
+        </activity>
+        <activity
+            android:name=".just_audio" >
+        </activity>
+        <activity
+            android:name=".thumbnail" >
+        </activity>
+        <activity
+            android:name=".coloring_fucntion" >
+        </activity>
     </application>
 
 </manifest>

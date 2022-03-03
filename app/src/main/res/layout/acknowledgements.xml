@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-             android:layout_width="match_parent"
-             android:layout_height="match_parent">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="70dp"
+        android:layout_height="57dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/home_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="178dp"
+        android:layout_height="356dp"
+        app:srcCompat="@drawable/testing"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="187dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
