@@ -7,16 +7,22 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
         <entry key="app/src/main/res/drawable/splashscreenimg.xml" value="0.26979166666666665" />
         <entry key="app/src/main/res/layout/acknowledgements.xml" value="0.7369373957319801" />
+        <entry key="app/src/main/res/layout/activity_adnyam_audio_list.xml" value="0.26132246376811596" />
+        <entry key="app/src/main/res/layout/activity_audio_list.xml" value="0.26132246376811596" />
+        <entry key="app/src/main/res/layout/activity_burrara_audio_list.xml" value="0.26132246376811596" />
         <entry key="app/src/main/res/layout/activity_choose_language.xml" value="0.25364583333333335" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
+        <entry key="app/src/main/res/layout/activity_murrin_audio_list.xml" value="0.26132246376811596" />
+        <entry key="app/src/main/res/layout/activity_pitjan_audio_list.xml" value="0.26132246376811596" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
         <entry key="app/src/main/res/layout/coloring_function.xml" value="0.517097703892767" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.25364583333333335" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.2227395047468187" />
         <entry key="app/src/main/res/layout/homescreen.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/just_audio.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/layout/just_audio.xml" value="0.33" />
         <entry key="app/src/main/res/layout/splash_screen.xml" value="0.25364583333333335" />
         <entry key="app/src/main/res/layout/thumbnail.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.14629629629629629" />
       </map>
     </option>
   </component>
