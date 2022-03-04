@@ -9,9 +9,10 @@ import android.content.Intent
 import android.util.Log
 import android.widget.Button
 import android.widget.ImageButton
+import android.widget.ImageView
 import android.widget.Toast
 
-class coloring_fucntion : AppCompatActivity(){
+class coloring_function : AppCompatActivity(){
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

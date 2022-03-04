@@ -10,21 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GodsStoryColoringApp">
         <activity
-            android:name=".adnyam_audio_list"
-            android:exported="false" />
-        <activity
-            android:name=".pitjan_audio_list"
-            android:exported="false" />
-        <activity
-            android:name=".murrin_audio_list"
-            android:exported="false" />
-        <activity
-            android:name=".burrara_audio_list"
-            android:exported="false" />
-        <activity
-            android:name=".AudioList"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
@@ -35,12 +20,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".chooseLanguage" />
-        <activity android:name=".homescreen" />
-        <activity android:name=".acknowledgements" />
-        <activity android:name=".just_audio" />
-        <activity android:name=".thumbnail" />
-        <activity android:name=".coloring_fucntion" />
+
+        <activity
+            android:name=".chooseLanguage" >
+        </activity>
+        <activity
+            android:name=".homescreen" >
+        </activity>
+        <activity
+            android:name=".acknowledgements" >
+        </activity>
+        <activity
+            android:name=".just_audio" >
+        </activity>
+        <activity
+            android:name=".thumbnail" >
+        </activity>
+        <activity
+            android:name=".coloring_function" >
+        </activity>
     </application>
 
 </manifest>

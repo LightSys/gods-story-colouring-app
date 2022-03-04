@@ -19,9 +19,10 @@
 
     <ImageView
         android:id="@+id/imageView6"
-        android:layout_width="178dp"
-        android:layout_height="356dp"
-        app:srcCompat="@drawable/testing"
-        tools:layout_editor_absoluteX="102dp"
-        tools:layout_editor_absoluteY="187dp" />
+        android:layout_width="382dp"
+        android:layout_height="594dp"
+        android:layout_marginBottom="80dp"
+        android:src="@drawable/camera"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
