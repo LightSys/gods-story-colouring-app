@@ -4,6 +4,8 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.ui.AppBarConfiguration
 import android.content.Intent
+import android.media.MediaPlayer
+import android.media.SoundPool
 
 import android.os.Handler
 import android.view.WindowManager
@@ -16,6 +18,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
 //        var test:javaTester = javaTester(this)
 //        setContentView(test)
         setContentView(R.layout.splash_screen)
@@ -33,4 +36,5 @@ class MainActivity : AppCompatActivity() {
 
 
     }
+
 }
